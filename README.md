@@ -1,1 +1,1 @@
-# mental-health-prediction
+# Mental Health Prediction Project
