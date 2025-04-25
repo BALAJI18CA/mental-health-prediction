@@ -3,7 +3,7 @@ import requests
 import json
 
 # Flask API URL (replace with your deployed Flask API URL after deployment)
-API_URL = "http://localhost:5000/predict" # Update to https://your-app.onrender.com/predict
+API_URL = "https://your-app.onrender.com/predict" # Update to https://your-app.onrender.com/predict
 
 st.title("Mental Health Depression Level Prediction")
 
